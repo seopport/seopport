@@ -1,5 +1,5 @@
 ![banner2](https://github.com/user-attachments/assets/54d0f53c-827c-40b9-8e9e-357a9336a4cb)
-## 안뇽하데요 Hi there 👋
+## Hi there 👋 Im jiwon
 
 
 <!--
