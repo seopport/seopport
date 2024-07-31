@@ -1,5 +1,6 @@
-![banner](https://github.com/user-attachments/assets/42b884c6-04b4-4313-98a9-1b1648ce0ab7)
-## Hi there 👋
+![banner2](https://github.com/user-attachments/assets/54d0f53c-827c-40b9-8e9e-357a9336a4cb)
+## 안뇽하데요 Hi there 👋
+
 
 <!--
 **seopport/seopport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
